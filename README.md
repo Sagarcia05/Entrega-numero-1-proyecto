@@ -23,4 +23,6 @@ Descripción del Proyecto: Desarrolla una aplicación móvil que funcione como u
 ````
 ###Diseño interfaz de usuario
 
+[![Mockup.png](https://i.postimg.cc/KjYMbT6r/Mockup.png)](https://postimg.cc/ygwdXDYk)
+
 
