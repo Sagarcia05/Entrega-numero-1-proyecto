@@ -20,4 +20,17 @@ Descripción del Proyecto: Desarrolla una aplicación móvil que funcione como u
 
 - Planificación de comidas: permitir a los usuarios planificar sus comidas para la semana,
   seleccionando recetas y asignándolas a días específicos
+
+- Notificaciones y Recordatorios: Permitir a los usuarios configurar notificaciones y recordatorios para las comidas planificadas, recordándoles cuándo empezar a cocinar o comprar ingredientes faltantes.
 ````
+
+**No funcionalidades de la aplicacion:**
+````
+- Tiempo de Carga Optimizado
+
+- Eficiencia Energética
+
+- Compatibilidad con Múltiples Plataformas
+````
+
+
