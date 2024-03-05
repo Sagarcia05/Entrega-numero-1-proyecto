@@ -1,4 +1,4 @@
-#### NOMBRE: Aplicación de Recetas de Cocina Interactiva
+## NOMBRE: Aplicación de Recetas de Cocina Interactiva
 <p>
 Descripción del Proyecto: Desarrolla una aplicación móvil que funcione como un asistente de cocina interactivo. La aplicación puede ofrecer recetas paso a paso, sugerencias personalizadas, y permitir a los usuarios crear y compartir sus propias recetas.
 </p>
