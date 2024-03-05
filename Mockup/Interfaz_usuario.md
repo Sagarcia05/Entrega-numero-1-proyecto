@@ -1,4 +1,4 @@
-#DISEÑO DE INTERFAZ DE USUARIO 
+## DISEÑO DE INTERFAZ DE USUARIO 
 
 1. Registrarse como usuario en linea
 
