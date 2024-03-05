@@ -1,4 +1,4 @@
-##Idea-proyecto
+##Ideas-proyecto
 <p>
 IDEA NUMERO #1
 </p>
