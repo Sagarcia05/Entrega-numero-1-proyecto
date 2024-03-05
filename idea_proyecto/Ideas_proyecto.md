@@ -1,9 +1,9 @@
-##Ideas-proyecto
+## Ideas-proyecto
 <p>
 IDEA NUMERO #1
 </p>
 
-#####NOMBRE: Gestor de Tareas
+#### #NOMBRE: Gestor de Tareas
 <p>
 Descripción del Proyecto Este proyecto trata sobre el desarrollo de una aplicación de gestión de tareas que permita a los usuarios organizar, sus responsabilidades de forma eficaz. Los usuarios pueden agregar, eliminar y marcar tareas como completadas.
 </p>
@@ -17,7 +17,7 @@ En la aplicacion se podra hacer cosas como:
 
 - Persistencia de Datos: Implementa la persistencia de datos para que las tareas se mantengan incluso después de cerrar la aplicación.
 
-######IDEA NUMERO #2
+##### #IDEA NUMERO #2
 
 NOMBRE: Lista de Compras Colaborativa
 <p>
@@ -33,7 +33,7 @@ En la aplicacion se podra hacer cosas como:
 
 - Histórico de Compras: Mantiene un historial de las compras realizadas para que los usuarios puedan saber que compras hicieron en el pasado para hacerlas en el futuro.
 
-######IDEA NUMERO #3
+##### #IDEA NUMERO #3
 
 NOMBRE: Aplicación de Recetas de Cocina Interactiva
 <p>
