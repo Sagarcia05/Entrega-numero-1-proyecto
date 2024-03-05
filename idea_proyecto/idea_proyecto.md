@@ -31,6 +31,10 @@ Descripción del Proyecto: Desarrolla una aplicación móvil que funcione como u
 - Eficiencia Energética
 
 - Compatibilidad con Múltiples Plataformas
+
+- Documentación y Soporte al Usuario
+
+- Respaldo de Datos y Seguridad de la Información
 ````
 
 
